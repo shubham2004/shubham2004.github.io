@@ -20,7 +20,7 @@ whats your mood today,lets check out. This natural language processing based sen
 [See the project](https://github.com/shubham2004/sentiment-analysis).
 
 ### **4. Face Recognition**
-Is is you, this program will recognise you. in the word of face id lets make one for our own.This is openCV based face recognition.
+Is it you, this program will recognise you. in the word of face id lets make one for our own.This is openCV based face recognition.
 
 [See the project](https://github.com/shubham2004/face-recognition).
 
@@ -32,7 +32,7 @@ Have you ever face problem of finding songs according to your current mood. This
 [simmilar project](https://github.com/shubham2004/basic_music_classifier_using_logistic_regression).
 
 ### **6. DJ Robo**
-Sick of your Dj's repetition of same beats and pattern. Trr this recurrent neural network based music remixer. it will surely surprise you and take DJ to next level,even i don't know how it will make you move :P.
+Sick of your Dj's repetition of same beats and pattern. Try this recurrent neural network based music remixer. it will surely surprise you and take DJ to next level.
 
 [See the project](https://github.com/shubham2004/recurrent-neural-network-for-music).
 
