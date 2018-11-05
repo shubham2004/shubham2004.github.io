@@ -5,4 +5,5 @@
 
 ### **1. Escaping from a faling temple**
 you are in a pre-historic temple and accidently step on a foundation stone and temple start shaking.you have the map of the temple but you need shortest way out to survive lets see if this reinforcement learning code can save you.
-[check this project out](https://github.com/shubham2004/escaping-from-a-falling-temple).
+
+[See the project](https://github.com/shubham2004/escaping-from-a-falling-temple).
