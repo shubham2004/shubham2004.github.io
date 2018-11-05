@@ -7,3 +7,7 @@
 you are in a pre-historic temple and accidently step on a foundation stone and temple start shaking.you have the map of the temple but you need shortest way out to survive lets see if this reinforcement learning code can save you.
 
 [See the project](https://github.com/shubham2004/escaping-from-a-falling-temple).
+
+### **2. chat-Bot**
+A chat bot made by natural language processing and probability applications.
+[See the project](https://github.com/shubham2004/chat-bot).
