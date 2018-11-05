@@ -36,3 +36,7 @@ Sick of your Dj's repetition of same beats and pattern. Trr this recurrent neura
 [See the project](https://github.com/shubham2004/recurrent-neural-network-for-music).
 
 
+### More to come stay tuned.
+
+if you like them please appreciate them by a star on repository Thank-you.
+
